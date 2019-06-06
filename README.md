@@ -63,6 +63,10 @@ I have a successful record of not only delivering under intensive circumstances 
 - Earned Magdalen demyship (performance-based scholarship)
 - President of Magdalen Film Society (2012-13)
 
+#### Nonsuch High School for Girls (2002 - 2009)
+- 5 'A' grades at A-level: Mathematics, Physics, Ancient Greek, English Literature and Critical Thinking
+- 1 additional 'A' grade at AS-level: Further Mathematics
+- 13 'A*'grades at GCSE, including Chinese and French
 
 ## Employment History and Experience
 
