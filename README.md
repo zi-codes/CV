@@ -24,7 +24,7 @@ In my coding projects:
 
 I absorb new material quickly and keenly, particularly when it comes to languages. This applies to the world of code:
 - I taught myself Ruby and independently reached 5-kyu on Codewars, before beginning the bootcamp.
-- Whilst on the precouse I have additionally learned Bootstrap and React, combining all my knowledge to make a web app.
+- Whilst on the precourse I have additionally learned Bootstrap and React, combining all my knowledge to make a web app.
 
 It also applies to some much older languages:
 - I was one of the very few people who read Classics at Oxford without prior knowledge of Latin, but I was able to master it in my first year at university and achieved the 15th highest score in the whole cohort in my moderation examinations. 
