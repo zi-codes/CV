@@ -1,11 +1,11 @@
-## Zi's CV
+## Ziwei Deng MA (Oxon), PGCE
 
-- Name: Ziwei Deng, MA (Oxon), PGCE
+- Preferred mame: Zi
 - Currently: Software developer trainee at Makers Academy
 - Previously: Mathematics specialist teacher and tutor
 - Languages: Ruby, JavaScript
 
-## Zi's Skills
+## Skills
 
 #### Perfectionist
 
@@ -45,7 +45,7 @@ As well as in my other interests:
 I have a successful record of not only delivering under intensive circumstances but flourishing in such adversity and taking on additional challenges. Both my degree and the day-to-day of inner city classroom teaching were extremely challenging in very different ways. Nevertheless, I still managed to make time to co-ordinate our film society whilst completing final year exams at Oxford, and took on additional responsibilities of Shanghai Mastery Maths training and helping to co-ordinate the computing curriculum in my time as a teacher. 
 
 
-## Zi's Education
+## Education
 
 #### Makers Academy (May 2019 - Oct 2019)
 - OOP, TDD, MVC, DDD
