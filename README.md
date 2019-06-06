@@ -80,4 +80,5 @@ I have a successful record of not only delivering under intensive circumstances 
 
 ## Other Responsibilities
 
-- Chairperson of OverBoard, London, a board game and geek culture community (2019 - present)
+**Chairperson of OverBoard London** (2016-2017)   
+*Board game and geek culture community* 
