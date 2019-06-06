@@ -40,7 +40,7 @@ As well as in my other interests:
 - I was president of Oxford's largest film society, and working alonside my committee we were hosting an all time peak of 3 film events every week with regularly packed out attendance in the auditorium.
 - Currently, I am also chairperson of one of London's largest board game and geek culture meetups, and with the help of my wonderful team we've grown the community to over 8000 members.
 
-### Resilient
+#### Resilient
 
 I have a successful record of not only delivering under intensive circumstances but flourishing in such adversity and taking on additional challenges. Both my degree and the day-to-day of inner city classroom teaching were extremely challenging in very different ways. Nevertheless, I still managed to make time to co-ordinate our film society whilst completing final year exams at Oxford, and took on additional responsibilities of Shanghai Mastery Maths training and helping to co-ordinate the computing curriculum in my time as a teacher. 
 
