@@ -1,6 +1,6 @@
 ## Ziwei Deng MA (Oxon), PGCE
 
-- Preferred mame: Zi
+- Preferred name: Zi
 - Currently: Software developer trainee at Makers Academy
 - Previously: Mathematics specialist teacher and tutor
 - Languages: Ruby, JavaScript
