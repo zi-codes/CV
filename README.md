@@ -1,4 +1,4 @@
-## Ziwei Deng MA (Oxon), PGCE
+## Ziwei Deng MA (Oxon), PGCE 
 
 - Preferred name: Zi 🐝
 - Currently: Learning full stack programming at Makers Academy 🖥️
@@ -7,7 +7,7 @@
 - Libraries and frameworks: Rails, Bootstrap, jQuery 📚
 - Testing tools: RSpec, Jasmine 🕵️
 
-## Skills
+## Skills 🤹
 
 #### Perfectionist 💯
 
