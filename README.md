@@ -24,11 +24,9 @@ In my coding projects:
 - high standards for layout and user experience as well as structure/logic, cleanness of code and accounting for edge cases
 - always going above and beyond the original specification: 
   - week 2: was asked to make a Roman Numeral Converter up to the number 10, I made it up to the number 1,000,000
-  - week 3: was asked to make a Rock-Paper-Scissors game for up to 5 weapons, I made it compatible with infinite * weapons
-  - week 5: when asked to make a 1 player bowling scorecard, I made an infinite ** player bowling scorecard that was also responsive to different screen sizes
-  
-  * until the server crashes
-  ** until your browser crashes
+  - week 3: was asked to make a Rock-Paper-Scissors game for up to 5 weapons, I made it compatible with infinite (until the server crashes) weapons
+  - week 5: when asked to make a 1 player bowling scorecard, I made an infinite (until your browser crashes) player bowling scorecard that was also responsive to different screen sizes
+ 
 
 #### Fast learner 🧽
 
