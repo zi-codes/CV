@@ -1,13 +1,15 @@
 ## Ziwei Deng MA (Oxon), PGCE
 
-- Preferred name: Zi
-- Currently: Software developer trainee at Makers Academy
-- Previously: Mathematics specialist teacher and tutor
-- Languages: Ruby, JavaScript
+- Preferred name: Zi 🐝
+- Currently: Learning full stack programming at Makers Academy 🖥️
+- Previously: Mathematics specialist teacher and tutor 👩🏻‍🏫
+- Languages: Ruby, JavaScript, HTML, CSS, SQL, Chinese, Greek, Latin, Hieroglyphs 💬
+- Libraries and frameworks: Rails, Bootstrap, jQuery 📚
+- Testing tools: RSpec, Jasmine 🕵️
 
 ## Skills
 
-#### Perfectionist
+#### Perfectionist 💯
 
 I strive for the absolute highest standards in everything I do. You can see this in my academic record:
 - awarded an ability-based scholarship at Oxford
@@ -18,21 +20,34 @@ In my professional career:
 - consistent 5* feedback from my tutoring clients
 
 In my coding projects:
-- thorough attention to detail in every exercise
+- completed all user stories for every weekly and weekend challenge, including the bonus ones
+- high standards for layout and user experience as well as structure/logic, cleanness of code and accounting for edge cases
+- always going above and beyond the original specification: 
+  - week 2: was asked to make a Roman Numeral Converter up to the number 10, I made it up to the number 1,000,000
+  - week 3: was asked to make a Rock-Paper-Scissors game for up to 5 weapons, I made it compatible with infinite * weapons
+  - week 5: when asked to make a 1 player bowling scorecard, I made an infinite ** player bowling scorecard that was also responsive to different screen sizes
+  
+  * until the server crashes
+  ** until your browser crashes
 
-#### Assimilator
+#### Fast learner 🧽
 
 I absorb new material quickly and keenly, particularly when it comes to languages. This applies to the world of code:
-- I taught myself Ruby and independently reached 5-kyu on Codewars, before beginning the bootcamp.
-- Whilst on the precourse I have additionally learned Bootstrap and React, combining all my knowledge to make a web app.
+- I taught myself Ruby and independently reached 5-kyu on Codewars in a matter of weeks, before even beginning the bootcamp.
+- Learned how to use all of the following languages, frameworks and tools within the 12 week span of the course: Javascript, SQL, HTML, CSS, jQuery, Rails, Git, RSpec, Jasmine, Sinatra 
 
 It also applies to some much older languages:
 - I was one of the very few people who read Classics at Oxford without prior knowledge of Latin, but I was able to master it in my first year at university and achieved the 15th highest score in the whole cohort in my moderation examinations. 
-- I completed a Bloomsbury Summer School course on Egyptian Hieroglyphs the same year too, entirely voluntarily and paid out of my own pocket.
+- I completed a Bloomsbury Summer School course on Egyptian Hieroglyphs the same year too, just because I felt like it
 
-#### Communicator & collaborator
+#### Communicator & collaborator 👥
 
-My team members and managers often comment on my ability to work effectively as part of a team, and particularly on bringing energy and positivity onto the project. This is evidenced in the classroom:
+My team members and managers often comment on my ability to work effectively as part of a team, and particularly on bringing energy and positivity onto the project. 
+
+On the course:
+- After just 6 weeks of learning to code our team successfully managed to teach ourselves how to use the ruby framework Rails, despite having no prior experience. We decided to take on the challenge, and with a growth mindset and lots of teamwork we conquered it together and created our own online BnB booker.
+
+As a teacher:
 - Many observers and members of senior leadership have commented on the atmosphere of enthusiasm and mutual respect I have fostered, as well as my ability to relay some quite difficult concepts to rather young children.
 - For the past 5 years I have had a 100% track record of getting tutees through their entrance examinations, and they have thanked me for my clear and concise explanations and my patient approach.
 
@@ -40,12 +55,12 @@ As well as in my other interests:
 - I was president of Oxford's largest film society, and working alonside my committee we were hosting an all time peak of 3 film events every week with regularly packed out attendance in the auditorium.
 - Currently, I am also chairperson of one of London's largest board game and geek culture meetups, and with the help of my wonderful team we've grown the community to over 8000 members.
 
-#### Resilient
+#### Resilient 💎
 
-I have a successful record of not only delivering under intensive circumstances but flourishing in such adversity and taking on additional challenges. Both my degree and the day-to-day of inner city classroom teaching were extremely challenging in very different ways. Nevertheless, I still managed to make time to co-ordinate our film society whilst completing final year exams at Oxford, and took on additional responsibilities of Shanghai Mastery Maths training and helping to co-ordinate the computing curriculum in my time as a teacher. 
+I have a successful record of not only delivering under intensive circumstances but flourishing in such adversity and taking on additional challenges. Throughout the intensive bootcamp I was still working part-time at weekends and still managing to complete my weekends homework and attend extra coding events in the evening. and Both my degree and the day-to-day of inner city classroom teaching were extremely challenging in very different ways. Nevertheless, I still managed to make time to co-ordinate our film society whilst completing final year exams at Oxford, and took on additional responsibilities of Shanghai Mastery Maths training and helping to co-ordinate the computing curriculum in my time as a teacher. 
 
 
-## Education
+## Education 🎓
 
 #### Makers Academy (May 2019 - Oct 2019)
 - OOP, TDD, MVC, DDD
@@ -68,7 +83,7 @@ I have a successful record of not only delivering under intensive circumstances 
 - 1 additional 'A' grade at AS-level: Further Mathematics
 - 13 'A*'grades at GCSE, including Chinese and French
 
-## Employment History and Experience
+## Employment History and Experience 💼
 
 **Personal Tutor** (2013 - 2019)    
 *Afterschool and home tuition for Maths, English, Latin, 7+, 11+ and 13+*
@@ -81,8 +96,8 @@ I have a successful record of not only delivering under intensive circumstances 
 
 **Begbrook Primary School** (2016-2017)   
 *Year 5 Teacher* 
-
-## Other Responsibilities
+ 
+## Other Responsibilities 🎉
 
 **Chairperson of OverBoard London** (2016-2017)   
 *Board game and geek culture community* 
