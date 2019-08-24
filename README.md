@@ -1,7 +1,7 @@
 ## Ziwei Deng MA (Oxon), PGCE 
 
 - Preferred name: Zi 🐝
-- Currently: Learning full stack programming at Makers Academy 🖥️
+- Currently: Full stack software developer, graduand of Makers Academy 🖥️
 - Previously: Mathematics specialist teacher and tutor 👩🏻‍🏫
 - Languages: Ruby, JavaScript, HTML, CSS, SQL, Chinese, Greek, Latin, Hieroglyphs 💬
 - Libraries and frameworks: Rails, Bootstrap, jQuery 📚
