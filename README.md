@@ -1,11 +1,41 @@
 ## Ziwei Deng MA (Oxon), PGCE 
 
-- Preferred name: Zi 🐝
-- Currently: Full stack software developer, graduand of Makers Academy 🖥️
-- Previously: Mathematics specialist teacher and tutor 👩🏻‍🏫
-- Languages: Ruby, JavaScript, HTML, CSS, SQL, Chinese, Greek, Latin, Hieroglyphs 💬
-- Libraries and frameworks: Rails, Bootstrap, jQuery 📚
-- Testing tools: RSpec, Jasmine 🕵️
+- Preferred name 🐝: Zi 
+- Currently 🖥️: Full stack software developer and Makers Academy graduand 
+- Previously 👩🏻‍🏫: Mathematics specialist teacher and tutor 
+- Languages 💬: Ruby, JavaScript, JSX, Python, Chinese, Greek, Latin, Egyptian Hieroglyphs
+- Methodologies 🔬: OOD, Agile, XP values, TDD 
+
+## Big Wall of Tech
+
+#### Javascript
+
+| Tech | Projects |
+|-------------------------|-----------------------------------|
+| React | Squiggler 2.0 (Twitter for squirrels) |
+| React-Native | #DeepTag (AI hashtagger for lazy instagrammers) |
+| Pure Javascript | Dory's Notes (the Notes app that doesn't remember), Argument Clinic (a contradiction-generating app) |
+| jQuery | Bowling scorecard |
+| Jest | Simple bank history |
+| Jasmine | Airport Challenge (feature and unit tests with mocking)|
+
+
+#### Ruby
+
+| Tech | Projects |
+|-------------------------|-----------------------------------|
+| Rails, ActiveRecord | Bookface (Facebook clone group project), AirB-or-not-to-B (AirBnB clone group project) |
+| Sinatra | Infinite rock-paper-scissors, Squiggler 1.0 |
+| RSpec | Bookface (100% Test Coverage!), Infinite RPS (feature and unit tests with mocking)|
+
+#### Other
+| Tech | Projects |
+|-------------------------|-----------------------------------|
+| Database | PostgreSQL |
+| CSS | Bootstrap, Bulma, Material UI, Materialize CSS |
+| Image Editing | Adobe Illustrator, Adobe Lightroom, Inkscape |
+| Deployment | Heroku, Netlify, AWS |
+
 
 ## Skills 🤹
 
