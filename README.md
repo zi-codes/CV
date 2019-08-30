@@ -70,7 +70,7 @@ Others have always had faith in me to take responsibility and lead fairly. Outsi
 
 | Tech        | Projects              |
 | ----------- | --------------------- |
-| Pure python, Unittest | [Gilded Rose tech test](https://github.com/zi-codes/gilded-rose) |
+| Pure python, Unittest | [Gilded Rose tech test](https://github.com/zi-codes/gilded-rose) (Rated 10/10 on Better Code Hub) |
 
 #### Other
 
@@ -124,5 +124,5 @@ _Year 5 Teacher & Computing Deputy_
 
 ## Other Responsibilities 🎉
 
-**Chairperson of OverBoard London** (Jan 2019 -present)  
+**Chairperson of [OverBoard London](https://www.meetup.com/OverBoardLondon/)** (Jan 2019 -present)  
 _Board game and geek culture community_
