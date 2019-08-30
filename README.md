@@ -51,9 +51,9 @@ Others have always had faith in me to take responsibility and lead fairly. Outsi
 
 | Tech            | Projects                                                                                             |
 | --------------- | ---------------------------------------------------------------------------------------------------- |
-| React           | [Squiggler 2.0 (Twitter for squirrels)] (https://github.com/zi-codes/squiggler)                                                                |
-| React-Native    | [#DeepTag (AI hashtagger for lazy instagrammers)] (https://github.com/zi-codes/deeptag-app)                                                      |
-| Pure Javascript | [Dory's Notes (the Notes app that doesn't remember)] (https://github.com/zi-codes/Note), [Argument Clinic (a contradiction-generating app)](https://github.com/zi-codes/argument_clinic) |
+| React           | [Squiggler 2.0 (Twitter for squirrels)](https://github.com/zi-codes/squiggler)                                                                |
+| React-Native    | [#DeepTag (AI hashtagger for lazy instagrammers)](https://github.com/zi-codes/deeptag-app)                                                      |
+| Pure Javascript | [Dory's Notes (the Notes app that doesn't remember)](https://github.com/zi-codes/Note), [Argument Clinic (a contradiction-generating app)](https://github.com/zi-codes/argument_clinic) |
 | jQuery          | [Multiplayer bowling scorecard] (https://github.com/zi-codes/bowling-challenge)                                                                        |
 | Jest            | [Bank tech test](https://github.com/zi-codes/banking-tech-test)                                                                                       |
 | Jasmine         | [Airport Challenge (feature and unit tests with mocking)](https://github.com/zi-codes/airport-js)                                              |
