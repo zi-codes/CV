@@ -18,34 +18,32 @@
 
 #### Love 💖
 
-I love solving puzzles and pride myself on elegant, DRY solutions. Unfazed by the demands of a full-time bootcamp, I made a few of my own passion projects on the side. Some were self-motivated extensions on weekend challenges - check out [Infinite Rock-Paper-Scissors](https://github.com/zi-codes/infinite-rock-paper-scissors), a web app that allows you to play the classic playground game with a fully customised and theoretically infinite weapon set. Others were entirely spawned of my own imagination - checkout [Base Emoji](https://github.com/zi-codes/codex-emojicrypt), a ruby program that can convert a base 10 number to any other base, even emojis, with full suite of tests.
+I love solving puzzles and pride myself on elegant, DRY solutions. Unfazed by the demands of a full-time bootcamp, I worked on a few of my own passion projects in addition to completeing the already challenging course materials. Some were self-motivated extensions on weekend challenges - check out [Infinite Rock-Paper-Scissors](https://github.com/zi-codes/infinite-rock-paper-scissors), a web app that allows you to play the classic playground game with a fully customised and theoretically infinite weapon set. Others were entirely spawned of my own imagination - for example [Base Emoji](https://github.com/zi-codes/codex-emojicrypt), a ruby program that can convert a base 10 number to any other base, even emojis, with full suite of tests.
 
 #### Team Spirit 🧘🏽‍
 
-With my classroom experience and formal pedagogical training, I am experienced in cultivating positive work environments and encouraging growth mindsets. From my time in the educational sector managers and clients have praised my ability to communicate clear and concise explanations of difficult concepts to those I have taught and for taking responsibility for the learning and welfare of others. This proved very useful in our group coding projects - after just 6 weeks of learning to code our team went beyond the basic criteria for the first group project and built a [full stack web app in Rails](https://github.com/zi-codes/Airbe_or_not_to_be), despite having no prior experience of the framework.
+With my classroom experience and formal pedagogical training, I am experienced in cultivating positive work environments and encouraging growth mindsets. In educational sector my managers and clients have praised my ability to communicate clearly and concisely to my students, especially finding words and ways to explain difficult and abstract concepts. All these skills proved very useful in our group coding projects - after just 6 weeks of learning to code our team went beyond the basic criteria for the first group project and built a [full stack web app in Rails](https://github.com/zi-codes/Airbe_or_not_to_be), despite having no prior experience of the framework. 
 
 #### High Standards 💯
 
-I strive for the absolute highest standards in everything I do. You can see this in my academic record - I was awarded an ability-based scholarship in my time at Oxford - and in my professional career where I was awarded 'Outstanding' (highest possible grade) in all 8 teacher's standards during formal observations from senior leadership.
+I strive for the absolute highest standards in everything I do. You can see this in my professional career, where I was awarded 'Outstanding' (highest possible grade) in all 8 teacher's standards during formal observations from senior leadership, as well as in my academic record - I was awarded a prestigious ability-based scholarship in my time at Oxford. I am also able to respond quickly to constructive feedback - on my first process review at Makers I was still marked as 'improving' in half the areas, in just one week I had worked on all these sufficiently to pass all 8 criteria. 
 
-In have always strived to write code that exemplifies OOD principles, with the highest standards for UI and UX also. In addition to this I always go above and beyond the original specification, e.g.:
+I take great care to write modular and easy-to-change code that exemplifies OOD principles, with the highest standards for UI and UX also. I always go above and beyond the original specification, e.g.:
 
-- week 2: was asked to make a [Roman Numeral Converter up to the number 10, I made it up to the number 1,000,000](https://github.com/zi-codes/codex-roman-numeraliser)
+- week 2: was asked to make a Roman Numeral Converter up to the number 10, I made it [up to the number 1,000,000](https://github.com/zi-codes/codex-roman-numeraliser)
 - week 5: when asked to make a 1 player bowling scorecard, I made a [multiplayer scorecard that also implemented responsive web design](https://github.com/zi-codes/bowling-challenge)
 
 #### Fast learner 🧽
 
-I absorb new material quickly and keenly, particularly when it comes to written language (human or programming).
-
-In addition to all the core course languages and frameworks learnt I also took time to self-teach [Python](https://github.com/zi-codes/gilded-rose), [React](https://github.com/zi-codes/squiggler) and [React-Native](https://github.com/zi-codes/deeptag-app). At university I was one of the very few students who read Classics without prior knowledge of Latin, but I was able to master it in my first year at university and achieved the 15th highest score in the whole cohort in my moderation examinations regardless. I completed a Bloomsbury Summer School course on Egyptian Hieroglyphs the same year too, purely out of love for exploring different ways of codifying meaning.
+I absorb new material quickly and keenly, particularly when it comes to written language (human or programming). In addition to all the core course languages and frameworks learnt I also took time to self-teach [Python](https://github.com/zi-codes/gilded-rose), [React](https://github.com/zi-codes/squiggler) and [React-Native](https://github.com/zi-codes/deeptag-app). At university I was one of the very few students who read Classics without prior knowledge of Latin, but I was able to master it in my first year at university and achieved the 15th highest score in the whole cohort in my moderation examinations regardless. I completed a Bloomsbury Summer School course on Egyptian Hieroglyphs the same year too, purely out of love for exploring different ways of codifying meaning.
 
 #### Resilient 💎
 
-I have a successful record of not only delivering under intensive circumstances but flourishing in such adversity and taking on additional challenges. Throughout the intensive bootcamp I was still working part-time at weekends and still managing to complete my weekend homework and attend additional coding events such as [Codebar](https://codebar.io/) every week. Both my degree and the day-to-day of inner city classroom teaching are notoriously tough - I am used to delivering under pressure and do not shy away from challenge.
+I have a successful record of not only delivering under intensive circumstances but flourishing in such adversity and taking on additional challenges. Throughout the intensive bootcamp I was still working part-time at weekends and still managing to complete my weekend homework and attend additional coding events such as [Codebar](https://codebar.io/) every week. Both my degree and the day-to-day of inner city classroom teaching have reputations for being notoriously tough in different ways - from producing two quality essays a week every week to teaching challenging classes with challenging behaviours while under observation -  I am used to delivering under pressure and do not shy away from challenge.
 
-#### Organiser 🗓
+#### Busy Bee 🐝
 
-Others have always had faith in me to take responsibility and lead fairly. Outside of work I am used to organising large teams and liaising with multiple agencies. I was chosen by the committee to be president of Oxford's largest film society, organising regular screenings of 6-7 films a week to a packed out auditorium. Currently, I am also chairperson of one of [London's largest board game and geek culture meetups](https://www.meetup.com/OverBoardLondon/), and with the help of my wonderful team we've grown the community to over 8000 members.
+Outside of work I am used to organising large teams and liaising with multiple agencies. I was chosen by the committee to be president of Oxford's largest film society, organising regular screenings of 6-7 films a week to a packed out auditorium. Currently, I am also chairperson of one of [London's largest board game and geek culture meetups](https://www.meetup.com/OverBoardLondon/), and with the help of my wonderful team we've grown the community to over 8000 members.
 
 <br>
 
