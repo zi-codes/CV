@@ -12,6 +12,8 @@
 
 🔬 **Methodologies** OOD, Agile, XP values, TDD
 
+<br/>
+
 ## Why pick me?
 
 #### Love 💖
@@ -45,7 +47,9 @@ I have a successful record of not only delivering under intensive circumstances 
 
 Others have always had faith in me to take responsibility and lead fairly. Outside of work I am used to organising large teams and liaising with multiple agencies. I was chosen by the committee to be president of Oxford's largest film society, organising regular screenings of 6-7 films a week to a packed out auditorium. Currently, I am also chairperson of one of [London's largest board game and geek culture meetups](https://www.meetup.com/OverBoardLondon/), and with the help of my wonderful team we've grown the community to over 8000 members.
 
-## Big Wall of Tech
+<br>
+
+## Tech Stacks
 
 #### Javascript
 
@@ -81,6 +85,8 @@ Others have always had faith in me to take responsibility and lead fairly. Outsi
 | Image Editing | Adobe Illustrator, Adobe Lightroom, Inkscape   |
 | Deployment    | Heroku, Netlify, AWS (EB, EC2, RDS)            |
 
+
+<br>
 ## Education 🎓
 
 #### Makers Academy (May 2019 - Sep 2019)
