@@ -4,7 +4,7 @@
 
 🐝 **Name** preferred name Zi, full name 邓紫微 (Ziwei Deng)
 
-🖥️ **Currently** Full stack software engineer, Makers Academy graduand
+🖥️ **Currently** Full stack software engineer, Makers Academy graduate
 
 👩🏻‍🏫 **Previously** Oxford Classics grad (MA), Mathematics specialist teacher and tutor (PGCE)
 
@@ -18,11 +18,11 @@
 
 #### Love 💖
 
-I love solving puzzles and pride myself on elegant, DRY solutions. Unfazed by the demands of a full-time bootcamp, I worked on a few of my own passion projects in addition to completeing the already challenging course materials. Some were self-motivated extensions on weekend challenges - check out [Infinite Rock-Paper-Scissors](https://github.com/zi-codes/infinite-rock-paper-scissors), a web app that allows you to play the classic playground game with a fully customised and theoretically infinite weapon set. Others were entirely spawned of my own imagination - for example [Base Emoji](https://github.com/zi-codes/codex-emojicrypt), a ruby program that can convert a base 10 number to any other base, even emojis, with full suite of tests.
+It is no exaggeration to say that for the past 12 weeks I have non-stop lived and breathed code and I loved every second of it. Unfazed by the demands of a full-time bootcamp, I even worked on additional projects on top of the challenging course material. Some were self-motivated extensions on weekend challenges - check out [Infinite Rock-Paper-Scissors](https://github.com/zi-codes/infinite-rock-paper-scissors), a web app that allows you to play the classic playground game with a theoretically infinite weapon set. Some were inspired my meetups and talks I attended - checkout [#DeepTag - ML hashtags for lazy instagrammers](https://jovial-sinoussi-42a9cd.netlify.com/), inspired the Upskilling Series on Machine Learning we had one evening at Makers. Others were were created pure out of love for puzzles  - for example [Base Emoji](https://github.com/zi-codes/codex-emojicrypt), a ruby program that can convert a base 10 number to any other base, even emojis, with full suite of tests.
 
 #### Team Spirit 🧘🏽‍
 
-With my classroom experience and formal pedagogical training, I am experienced in cultivating positive work environments and encouraging growth mindsets. In educational sector my managers and clients have praised my ability to communicate clearly and concisely to my students, especially finding words and ways to explain difficult and abstract concepts. All these skills proved very useful in our group coding projects - after just 6 weeks of learning to code our team went beyond the basic criteria for the first group project and built a [full stack web app in Rails](https://github.com/zi-codes/Airbe_or_not_to_be), despite having no prior experience of the framework. 
+With my classroom experience and formal pedagogical training, I am experienced in cultivating positive work environments and encouraging growth mindsets. In my time as a teacher my managers and clients have praised my ability to teach difficult and abstract concepts in a clear and concise way. All these skills proved very useful in our group coding projects - after just 6 weeks of learning to code our team went above and beyond for our first group project and built a [full stack web app in Rails](https://github.com/zi-codes/Airbe_or_not_to_be), despite having no prior experience of the framework. For our final group project we worked incredibly effectively as a small but determined group of 4 to build ["job tinder"](https://github.com/zi-codes/jinder-frontend), an app that was packed with features and optimised beautifully for web and mobile. From early morning team brunches to late night bug fixing, daily mood check-ins and (corn alert) matching t-shirts, we had an incredible amount of fun and made something we were extremely proud of. 
 
 #### High Standards 💯
 
@@ -43,7 +43,8 @@ I have a successful record of not only delivering under intensive circumstances 
 
 #### Busy Bee 🐝
 
-Outside of work I am used to organising large teams and liaising with multiple agencies. I was chosen by the committee to be president of Oxford's largest film society, organising regular screenings of 6-7 films a week to a packed out auditorium. Currently, I am also chairperson of one of [London's largest board game and geek culture meetups](https://www.meetup.com/OverBoardLondon/), and with the help of my wonderful team we've grown the community to over 8000 members.
+Outside of work I am used to organising large teams and liaising with multiple agencies. I was chosen by the committee to be president of Oxford's largest film society, organising regular screenings of 6-7 films a week to a packed out auditorium.
+Until recently I was also chairperson of one of [London's largest board game and geek culture meetups](https://www.meetup.com/OverBoardLondon/), and with the help of my wonderful team we've grown the community to over 8000 members.
 
 <br>
 
@@ -53,7 +54,7 @@ Outside of work I am used to organising large teams and liaising with multiple a
 
 | Tech            | Projects                                                                                             |
 | --------------- | ---------------------------------------------------------------------------------------------------- |
-| React           | [Squiggler 2.0 (Twitter for squirrels)](https://github.com/zi-codes/squiggler)                                                                |
+| React           | [Job Tinder Frontend (final group project)](https://github.com/zi-codes/jinder-frontend), [Squiggler 2.0 (Twitter for squirrels)](https://github.com/zi-codes/squiggler)                                                                |
 | React-Native    | [#DeepTag (AI hashtagger for lazy instagrammers)](https://github.com/zi-codes/deeptag-app)                                                      |
 | Pure Javascript | [Dory's Notes (the Notes app that doesn't remember)](https://github.com/zi-codes/Note), [Argument Clinic (a contradiction-generating app)](https://github.com/zi-codes/argument_clinic) |
 | jQuery          | [Multiplayer bowling scorecard](https://github.com/zi-codes/bowling-challenge)                                                                        |
@@ -64,7 +65,7 @@ Outside of work I am used to organising large teams and liaising with multiple a
 
 | Tech    | Projects                                                                               |
 | ------- | -------------------------------------------------------------------------------------- |
-| Rails   | [AirB-or-not-to-B (AirBnB clone group project)](https://github.com/zi-codes/Airbe_or_not_to_be) |
+| Rails   | [AirB-or-not-to-B (AirBnB clone group project)](https://github.com/zi-codes/Airbe_or_not_to_be), [Job Tinder Backend (final group project)](https://github.com/hemser1/jinder-backend) |
 | Sinatra | [Infinite rock-paper-scissors](https://github.com/zi-codes/infinite-rock-paper-scissors)                                    |
 | RSpec   | [Bookface (100% Test Coverage!)](https://github.com/zi-codes/acebook-rails-template), [Infinite RPS (feature and unit tests with mocking)](https://github.com/zi-codes/infinite-rock-paper-scissors)     |
 
@@ -128,5 +129,5 @@ _Year 5 Teacher & Computing Deputy_
 
 ## Other Responsibilities 🎉
 
-**Chairperson of [OverBoard London](https://www.meetup.com/OverBoardLondon/)** (Jan 2019 -present)  
+**Chairperson of [OverBoard London](https://www.meetup.com/OverBoardLondon/)** (Jan 2019 -Sep 2019)  
 _Board game and geek culture community_
