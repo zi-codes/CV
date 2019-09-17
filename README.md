@@ -49,7 +49,7 @@ Until recently I was also chairperson of one of [London's largest board game and
 <br>
 
 ## Tech Experience
-Most of this was learned within the 12 week span of Makers Academy - though I am confident that I can pick up any new language or framework!
+I am confident I can pick up any new language or framework, but here is a taster for what I learned over just 12 weeks at Makers:
 
 #### Javascript
 
