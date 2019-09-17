@@ -39,7 +39,7 @@ I absorb new material quickly and keenly, particularly when it comes to written 
 
 #### Resilient 💎
 
-I have a successful record of not only delivering under intensive circumstances but flourishing in such adversity and taking on additional challenges. Throughout the intensive bootcamp I was still working part-time at weekends and still managing to complete my weekend homework and attend additional coding events such as [Codebar](https://codebar.io/) every week. Both my degree and the day-to-day of inner city classroom teaching have reputations for being notoriously tough in different ways - from producing two quality essays a week every week to teaching challenging classes with challenging behaviours while under observation -  I am used to delivering under pressure and do not shy away from challenge.
+I have a successful record of not only delivering under intensive circumstances but flourishing in such adversity and taking on additional challenges. Throughout the intensive bootcamp I was still working part-time at weekends and still managing to complete my weekend homework and attend additional coding events such as [Codebar](https://codebar.io/) every week. As a teacher I am used to dealing with the notorious stress and workload associated with inner-city classrooms and constant observations, whilst maintaining a positive attitude, as well as having successfully completed one of the most intense undergraduate degrees (30 hours of written examinations in 1 week for my BA).
 
 #### Busy Bee 🐝
 
@@ -115,7 +115,7 @@ Until recently I was also chairperson of one of [London's largest board game and
 
 ## Employment History and Experience 💼
 
-**Personal Tutor** (2013 - 2019)  
+**Personal Tutor** (2018 - 2019)  
 _Specialist tuition for Maths, English, Latin, Verbal Reasoning and Non-verbal reasoning_
 
 **Timeplan Surrey** (2018 - 2019)  
