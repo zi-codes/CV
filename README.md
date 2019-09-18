@@ -87,6 +87,7 @@ I am confident I can pick up any new language or framework, but here is a taster
 
 
 <br>
+
 ## Education 🎓
 
 #### Makers Academy (May 2019 - Sep 2019)
