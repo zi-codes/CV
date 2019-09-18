@@ -8,7 +8,7 @@
 
 👩🏻‍🏫 **Previously** Oxford Classics grad (MA), Mathematics specialist teacher and tutor (PGCE)
 
-💬 **Languages** Ruby, JavaScript, JSX, Python, Chinese, Greek, Latin, Egyptian Hieroglyphs
+💬 **Languages & Frameworks** Ruby, JavaScript, React, Python, Chinese, Greek, Latin, Egyptian Hieroglyphs
 
 🔬 **Methodologies** OOD, Agile, XP values, TDD
 
