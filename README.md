@@ -1,8 +1,6 @@
-# Zi's CV
+# Zi Deng
 
 <p align="center">| <a href="https://www.linkedin.com/in/zi-codes/">LinkedIn</a> | <a href="https://www.codewars.com/users/zi-codes"> Codewars</a> |</center>
-
-🐝 **Name** preferred name Zi, full name 邓紫微 (Ziwei Deng)
 
 🖥️ **Currently** Full stack software engineer, Makers Academy graduate
 
@@ -97,13 +95,13 @@ I am confident I can pick up any new language or framework, but here is a taster
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Roehampton (2015 - 2016)
+#### University of Roehampton (Sep 2014 - Jul 2015)
 
 - PGCE Primary with Mathematics Specialism
 - Shanghai "Mastery" maths trained
 - Computing curriculum trained with Code Club
 
-#### University of Oxford, Magdalen College (2009 - 2013)
+#### University of Oxford, Magdalen College (Oct 2009 - Jun 2013)
 
 - BA Literae Humaniores 2:1
 - Earned Magdalen demyship (performance-based scholarship)
@@ -117,16 +115,16 @@ I am confident I can pick up any new language or framework, but here is a taster
 
 ## Employment History and Experience 💼
 
-**Personal Tutor** (2018 - 2019)  
+**Personal Tutor** (Sep 2018 - present)  
 _Specialist tuition for Maths, English, Latin, Verbal Reasoning and Non-verbal reasoning_
 
-**Timeplan Surrey** (2018 - 2019)  
+**Timeplan Surrey** (Mar 2018 - May 2019)  
 _PPA/Cover Teacher & Computing Specalist Teacher_
 
-**Allen Edwards Primary School** (2017-2018)  
+**Just Teachers London** (Oct 2016 - Mar 2018)  
 _Intervention Teacher - Maths, English and Phonics_
 
-**Begbrook Primary School** (2016-2017)  
+**Begbrook Primary School** (Sep 2015 - Jul 2016)  
 _Year 5 Teacher & Computing Deputy_
 
 ## Other Responsibilities 🎉
