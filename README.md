@@ -115,7 +115,7 @@ I am confident I can pick up any new language or framework, but here is a taster
 
 ## Employment History and Experience 💼
 
-**Personal Tutor** (Sep 2018 - present)  
+**Personal Tutor** (Aug 2013 - present)  
 _Specialist tuition for Maths, English, Latin, Verbal Reasoning and Non-verbal reasoning_
 
 **Timeplan Surrey** (Mar 2018 - May 2019)  
