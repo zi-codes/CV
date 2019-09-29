@@ -1,12 +1,12 @@
 # Zi Deng
 
-<p align="center">| <a href="https://www.linkedin.com/in/zi-codes/">LinkedIn</a> | <a href="https://www.codewars.com/users/zi-codes"> Codewars</a> |</center>
+<p align="center">| <a href="https://www.linkedin.com/in/zi-codes/">LinkedIn</a> | <a href="https://www.codewars.com/users/zi-codes"> Codewars</a> | <a href="#tech">Portfolio</a> |</center>
 
 🖥️ **Currently** Full stack software engineer, Makers Academy graduate
 
 👩🏻‍🏫 **Previously** Oxford Classics grad (MA), Mathematics specialist teacher and tutor (PGCE)
 
-💬 **Languages & Frameworks** Ruby, JavaScript, React, Python, Chinese, Greek, Latin, Egyptian Hieroglyphs
+💬 **Languages & Frameworks** Ruby, JavaScript, React, Python, Chinese, Greek, Latin, Egyptian Hieroglyphs 
 
 🔬 **Methodologies** OOD, Agile, XP values, TDD
 
@@ -46,7 +46,7 @@ Until recently I was also chairperson of one of [London's largest board game and
 
 <br>
 
-## Tech Experience
+<h2 id="tech">Tech Experience</h2>
 I am confident I can pick up any new language or framework, but here is a taster for what I learned over just 12 weeks at Makers:
 
 #### Javascript
